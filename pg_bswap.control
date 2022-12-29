@@ -1,0 +1,4 @@
+comment = 'byte swap for various data types in PostgreSQL'
+default_version = '0.1'
+module_pathname = '$libdir/pg_bswap'
+relocatable = true
